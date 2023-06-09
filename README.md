@@ -3,7 +3,7 @@
 </h1>
 
 <hr>
-<h3><i>Love to explore tech stacks</h3>
+<h3><i>Love to explore new tech stacks</h3>
 <img align="right" alt="GIF" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDMzM2Y5MTQzYWI4YzVmM2U0ZWZmNDZiZGFkMTAwZjk5YzRkNzFlNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Rlqzt1kP5459lJi6oi/giphy.gif" height="270" width = '400' />
 
 <h2>About Me 📖 </h2>
