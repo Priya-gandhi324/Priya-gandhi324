@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1>Hello there, <br> My name is Priya Gandhi <br>
+🎮🙂
+</h1>
 
-<!--
-**Priya-gandhi324/Priya-gandhi324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
+<h3><i>Operates on caffeine</h3>
+<img align="right" alt="GIF" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDMzM2Y5MTQzYWI4YzVmM2U0ZWZmNDZiZGFkMTAwZjk5YzRkNzFlNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Rlqzt1kP5459lJi6oi/giphy.gif" height="270" width = '400' />
 
-Here are some ideas to get you started:
+<h2>About Me :book: </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😃 "Knowledge Seeker" <br>
+- 💻 In love with Backend Development <br>
+- 👀 Self-learner <br>
+- 💯 Thrives on challenges <br>
+
+
+<h2>Connect With Me :handshake: </h2>
+<p>
+  <a href = "https://www.linkedin.com/in/priya-gandhi-a6731b200/"> Linkedin </a> <span> | </span>
+  <a href = "https://medium.com/@priyagandhi2k"> Medium </a> <span> | </span>
+</p>
