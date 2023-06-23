@@ -9,7 +9,7 @@
 <h2>About Me 📖 </h2>
 
 - 😃 "Knowledge Seeker" <br>
-- 💻 Prefers Backend Development <br>
+- 💻 Backend Development <br>
 - 👀 Self-learner <br>
 - 💯 Thrives on challenges <br>
 
