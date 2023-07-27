@@ -4,7 +4,7 @@
 
 <hr>
 <h3><i>Love to explore new tech stacks</h3>
-<img align="right" alt="GIF" src = "https://media.giphy.com/media/Nc9Ed4xkO1JZvMXvvV/giphy.gif" height="270" width = '400' />
+<img align="right" alt="GIF" src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="270" width = '400' />
 
 <h2>About Me 📖 </h2>
 
