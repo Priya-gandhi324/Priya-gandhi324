@@ -18,4 +18,5 @@
 <p>
   <a href = "https://www.linkedin.com/in/priya-gandhi-a6731b200/"> Linkedin </a> <span> | </span>
   <a href = "https://medium.com/@priyagandhi2k"> Medium </a>
+  <a href = "https://github.com/Priya-gandhi25"> Internship </a>
 </p>
